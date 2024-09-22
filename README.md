@@ -27,4 +27,4 @@ Trước khi bắt đầu, hãy đảm bảo rằng bạn đã cài đặt các 
   npm run web
 
 
-- **Link youtube**: Đây là link youtube của bài 3 react (https://www.youtube.com/watch?v=OGU_qIRD63Q).
+- **Link youtube**: Đây là link youtube của bài 3 react (https://youtu.be/ogP0ReccxyY).
