@@ -1,4 +1,4 @@
-# 40_21005711_MaiQuocTruong_REACT_Tuan3
+# 19_21000121_TruongDaiLoc_REACT_Tuan3
 
 Bài tập 3 React lập trình thiết bị di động
 
